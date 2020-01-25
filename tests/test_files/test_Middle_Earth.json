@@ -1,0 +1,35 @@
+{
+    "universe":"Middle_Earth",
+    "kingdoms": [
+        {
+            "name":"Gondor",
+            "king":"Isildur",
+            "emblem":"Sword"
+        },
+        {
+            "name":"Rohan",
+            "king":"Theoden",
+            "emblem":"Shield"
+        },
+        {
+            "name":"Erebor",
+            "king":"Dain",
+            "emblem":"Axe"
+        },
+        {
+            "name":"Mirkwood",
+            "king":"Thranduil",
+            "emblem":"Arrow"
+        },
+        {
+            "name":"Arda",
+            "king":"Melkor",
+            "emblem":"Spear"
+        },
+        {
+            "name":"Mordor",
+            "king":"Sauron",
+            "emblem":"Orcs"
+        }
+    ]
+}

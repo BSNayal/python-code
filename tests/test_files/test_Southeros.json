@@ -1,0 +1,35 @@
+{
+    "universe":"",
+    "kingdoms": [
+        {
+            "name":"Space",
+            "king":"Shan",
+            "emblem":"Gorilla"
+        },
+        {
+            "name":"Water",
+            "king":"Paul",
+            "emblem":"Octopus"
+        },
+        {
+            "name":"Air",
+            "king":"Hedwig",
+            "emblem":"Owl"
+        },
+        {
+            "name":"Ice",
+            "king":"Manny",
+            "emblem":"Mammoth"
+        },
+        {
+            "name":"Fire",
+            "king":"Night_Fury",
+            "emblem":"Dragon"
+        },
+        {
+            "name":"Land",
+            "king":"Po",
+            "emblem":"Panda"
+        }
+    ]
+}
